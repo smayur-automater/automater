@@ -1,6 +1,6 @@
 **Mayur Shah**
 
-Helping businesses grow with AI-powered automation tools.
+Helping businesses grow with AI-powered automation tools
 
 AI Automation Enthusiast running an automation agency throughout Australia managing clients globally
 # 👋 Hi, I'm Mayur — AI & Cybersecurity Automation Strategist
