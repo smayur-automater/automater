@@ -1,6 +1,11 @@
+**Mayur Shah**
+
+Helping businesses grow with AI-powered automation tools
+
+AI Automation Enthusiast running an automation agency throughout Australia managing clients globally
 # 👋 Hi, I'm Mayur — AI & Cybersecurity Automation Strategist
 
-Welcome to my GitHub! I specialize in building intelligent workflow automations that accelerate productivity and drive operational efficiency across industries.
+Welcome to my GitHub! I am an AI Automation Enthusiast running an automation agency throughout Australia managing clients globally specialize in building intelligent workflow automations that accelerate productivity and drive operational efficiency across industries.
 
 ## 🚀 What I Do
 - 🤖 **AI Automation** – Integrate LLMs (GPT-4o, Claude, Mistral) into real-world processes  
