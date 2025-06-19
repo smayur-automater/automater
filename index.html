@@ -81,18 +81,23 @@
     <tr><td>DevOps</td><td>Git · VS Code · Docker</td></tr>
   </table>
 
-  <h2>📫 Connect With Me</h2>
-  <ul>
-    <li>🌐 Website: <a href="https://www.xfiniti.com.au" target="_blank">xfiniti.com.au</a></li>
-    <li>📧 Email: <a href="mailto:smayur0183@gmail.com">smayur0183@gmail.com</a></li>
-    <li>💻 GitHub: <a href="https://github.com/smayur-automater" target="_blank">smayur-automater</a></li>
-  </ul>
+  <h2>✉️ Contact Us</h2>
+  <p>If you have a project in mind or just want to say hello, please fill out the form below.</p>
+  <div class="contact-wrapper">
+    <!-- Replace the action URL with your Formspree endpoint or backend handler -->
+    <form action="https://formspree.io/f/YOUR_FORMSPREE_ID" method="POST">
+      <label for="name">Name</label>
+      <input type="text" id="name" name="name" required>
 
-  <h2>✉️ Contact Form</h2>
-  <p>Please fill out the form below and I'll get back to you shortly.</p>
-  <div class="form-wrapper">
-    <!-- 👉 Replace the src below with your actual Google Form embed link -->
-    <iframe src="https://docs.google.com/forms/d/e/1FAIpQLScE_cM3UApMimuqzHP2H5jUHM7JQhfQywfznY8VbG-yL92AzQ/viewform?embedded=true</iframe>" loading="lazy">Loading…</iframe>
+      <label for="email">Email</label>
+      <input type="email" id="email" name="email" required>
+
+      <label for="message">Message</label>
+      <textarea id="message" name="message" required></textarea>
+
+      <!-- you can add a hidden honeypot field for spam protection -->
+      <button type="submit">Send Message</button>
+    </form>
   </div>
 
 </body>
